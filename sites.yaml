@@ -1,0 +1,7 @@
+sites:
+- name: example
+cwd: /home/pi/example-site
+cmd: python3 app.py
+port: 8001
+autostart: false
+autorestart: false
